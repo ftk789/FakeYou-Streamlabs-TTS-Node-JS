@@ -1,0 +1,23 @@
+{
+  "name": "streamlabs-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karl Jakober",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "fakeyou": "^0.1.0",
+    "node-fetch": "^3.2.4",
+    "socket.io": "^4.5.0",
+    "socket.io-client": "^2.3.1",
+    "sqlite3": "^4.0.4",
+    "streamlabs-obs-socket-client": "^1.0.2",
+    "streamlabs-ws-client": "^1.0.0"
+  }
+}
