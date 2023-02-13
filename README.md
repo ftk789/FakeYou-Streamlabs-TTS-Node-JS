@@ -1,5 +1,7 @@
 # FakeYou-Streamlabs-TTS
 
+Use Streamlabs text events as TTS.
+
 Change Socket token to your Streamlabs Socket Token API.
 
 You need node-fetch = `npm install node-fetch`
